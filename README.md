@@ -1,5 +1,4 @@
 # React + Vite
-Hey SOUMEN, I'd be glad to help you write a README file for your currency conversion project! Here's an example README file that you can use as a template:
 
 # Currency Converter
 
@@ -25,6 +24,3 @@ This project was built using React, and the JSDELIVR API.
 ## Contributing
 
 If you'd like to contribute to this project, please fork the repository and submit a pull request.
-
-
-Let me know if you have any further questions or if there's anything else I can assist you with!
